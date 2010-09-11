@@ -1,0 +1,803 @@
+TPuzzle
+v7
+r0
+t305302704.355937
+cCheck dependencies
+cProcessInfoPlistFile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Info.plist Puzzle-Info.plist
+cCompileXIB /Users/guy/Documents/xcode/Puzzle/MainWindow.xib
+cCompileXIB /Users/guy/Documents/xcode/Puzzle/SecondView.xib
+cCompileXIB /Users/guy/Documents/xcode/Puzzle/FirstView.xib
+cCpResource build/Debug-iphonesimulator/Puzzle.app/13112009172.jpg ../../../Pictures/trios/13112009172.jpg
+cCpResource build/Debug-iphonesimulator/Puzzle.app/trafo1.JPG ../../../Pictures/trios/trafo1.JPG
+cCompileXIB /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.xib
+cProcessPCH /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch.gch Puzzle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/main.o /Users/guy/Documents/xcode/Puzzle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PuzzleAppDelegate.o /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/FirstViewController.o /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/SecondViewController.o /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Slices.o /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/theTabController.o /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PopOverTest.o /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle normal i386
+cGenerateDSYMFile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app.dSYM /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle
+cTouch /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004BD1CD9000000000000004FE
+t1272040848
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C6540190000000000000132
+t1281703961
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/guy/Documents/xcode/Puzzle/../../../Pictures/trios/13112009172.jpg
+c000000004AFD4FA000000000000997D3
+t1258114976
+s628691
+
+N/Users/guy/Documents/xcode/Puzzle/../../../Pictures/trios/trafo1.JPG
+c000000004A79AED800000000001BC851
+t1249488600
+s1820753
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m
+c000000004C75536300000000000000EA
+t1282757475
+s234
+i"UITabBarController.h"
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.h
+c000000004C8241D000000000000002FC
+t1283604944
+s764
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m
+c000000004C82552F000000000000287A
+t1283609903
+s10362
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+i"FirstViewController.h"
+i"SecondViewController.h"
+i"Slices.h"
+i<math.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/ImagePicker.xib
+c000000004C7A64D40000000000004697
+t1283089620
+s18071
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.h
+c000000004C7ABC1500000000000000E0
+t1283111957
+s224
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m
+c000000004C7ABC15000000000000050E
+t1283111957
+s1294
+i"PopOverTest.h"
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.xib
+c000000004C7ABC580000000000004F8C
+t1283112024
+s20364
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.h
+c000000004C7BDA000000000000000229
+t1283185152
+s553
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m
+c000000004C7BD9EF000000000000094B
+t1283185135
+s2379
+i"PuzzleAppDelegate.h"
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.h
+c000000004C715E1100000000000000F1
+t1282498065
+s241
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.m
+c000000004C715E1100000000000010C9
+t1282498065
+s4297
+i"RootViewController.h"
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.h
+c000000004C8241D000000000000002CE
+t1283604944
+s718
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m
+c000000004C82401D00000000000008CC
+t1283604509
+s2252
+i"SecondViewController.h"
+i"PopOverTest.h"
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/Slices.h
+c000000004C77D6E6000000000000032D
+t1282922214
+s813
+i<Foundation/Foundation.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/Slices.m
+c000000004C77D06700000000000003D5
+t1282920551
+s981
+i"Slices.h"
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/theTabController.h
+c000000004C77FC2900000000000000F6
+t1282931753
+s246
+i<Foundation/Foundation.h>
+
+N/Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m
+c000000004C7A2F480000000000000163
+t1283075912
+s355
+i"theTabController.h"
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/FirstView.xib
+c000000004C7933910000000000004866
+t1283011473
+s18534
+
+N/Users/guy/Documents/xcode/Puzzle/MainWindow.xib
+c000000004C80E8750000000000007440
+t1283516533
+s29760
+
+N/Users/guy/Documents/xcode/Puzzle/PopOverView.xib
+c000000004C7ABA96000000000000384B
+t1283111574
+s14411
+
+N/Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch
+c000000004C71602A00000000000000B5
+t1282498602
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/guy/Documents/xcode/Puzzle/RootViewController.xib
+c000000004C715E110000000000004451
+t1282498065
+s17489
+
+N/Users/guy/Documents/xcode/Puzzle/SecondView.xib
+c000000004C823F3C0000000000007711
+t1283604284
+s30481
+
+N/Users/guy/Documents/xcode/Puzzle/UITabBarController.h
+c000000004C75537E000000000000016F
+t1282757502
+s367
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/guy/Documents/xcode/Puzzle/UITabBarController.m
+c000000004C75517A00000000000000D6
+t1282756986
+s214
+i"UITabBarController.h"
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app
+t1283609904
+s442
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app.dSYM
+t1283609904
+s102
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/13112009172.jpg
+t1282758167
+s628691
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/FirstView.nib
+t1283011479
+s1088
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/ImagePicker.nib
+t1283089845
+s852
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Info.plist
+t1282758167
+s794
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/MainWindow.nib
+t1283516548
+s1764
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/PkgInfo
+t1282758167
+s8
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/PopOverTest.nib
+t1283112030
+s1649
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/PopOverView.nib
+t1283111579
+s1083
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle
+t1283609904
+s46224
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/RootViewController.nib
+t1282498070
+s979
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/SecondView.nib
+t1283604390
+s2378
+
+N/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/trafo1.JPG
+t1282758167
+s1820753
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/Puzzle_vers.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/FirstViewController.o
+t1283609904
+s70196
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PopOverTest.o
+t1283112030
+s34252
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Puzzle.LinkFileList
+c000000004C7AB63E0000000000000366
+t1283110462
+s870
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PuzzleAppDelegate.o
+t1283185152
+s49536
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Puzzle_vers.o
+t2
+s0
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/RootViewController.o
+t1282498071
+s38048
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/SecondViewController.o
+t1283604944
+s50792
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Slices.o
+t1282922215
+s16464
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/UITabBarController.o
+t2
+s0
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/main.o
+t1282758168
+s6292
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/theTabController.o
+t1283075912
+s35068
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/FirstViewController.plist
+t1283605121
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/PopOverTest.plist
+t1283184451
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/PuzzleAppDelegate.plist
+t1283185152
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/SecondViewController.plist
+t1283604944
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/Slices.plist
+t1282922215
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/UITabBarController.plist
+t2
+s0
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/main.plist
+t1282758169
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/theTabController.plist
+t1283080441
+s276
+
+N/Users/guy/Documents/xcode/Puzzle/main.m
+c000000004C71602A000000000000016B
+t1282498602
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch.pth
+t1282502146
+s2129300
+
+N/var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-dddlvfpadoimudgazbvhjwjnjyig/Puzzle_Prefix.pch.gch
+t1282498071
+s15232016
+
+N/var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch.gch
+t1282758168
+s13825936
+
+NPuzzle-Info.plist
+c000000004C71602A00000000000004D6
+t1282498602
+s1238
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m
+s304450354.926757
+e304450354.958723
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m
+oIn file included from /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:8:
+o/Users/guy/Documents/xcode/Puzzle/UITabBarController.h:11:1: error: duplicate interface definition for class 'UITabBarController'
+o @interface UITabBarController : UIViewController {
+o ^
+oIn file included from /Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:62:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBarController.h:28:20: note: previous definition is here
+o UIKIT_EXTERN_CLASS @interface UITabBarController : UIViewController <UITabBarDelegate, NSCoding> {
+o                    ^
+o1 error generated.
+lSLF07#2@73"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450354#304450354#0(858"In file included from /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:8:/Users/guy/Documents/xcode/Puzzle/UITabBarController.h:11:1: error: duplicate interface definition for class 'UITabBarController' @interface UITabBarController : UIViewController { ^In file included from /Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:62:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBarController.h:28:20: note: previous definition is here UIKIT_EXTERN_CLASS @interface UITabBarController : UIViewController <UITabBarDelegate, NSCoding> {                    ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors304450354#18446744073709551615#0#1(25@61"duplicate interface definition for class 'UITabBarController'304450354#18446744073709551615#0#0(6@54"/Users/guy/Documents/xcode/Puzzle/UITabBarController.h304450302#11#0#11#0#0"0(6@54"/Users/guy/Documents/xcode/Puzzle/UITabBarController.h304450302#0#0#0#0#0"0(0#0#65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m8620273600#1874"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/UITabBarController.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m
+s305297921.212697
+e305297921.295614
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m
+lSLF07#2@71"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m305297921#305297921#0(0"0(0#0#63"/Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m8627505632#1873"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/FirstViewController.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m
+s304877251.253019
+e304877251.291668
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m
+lSLF07#2@63"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m304877251#304877251#0(0"0(0#0#55"/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m8647482336#1857"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/PopOverTest.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m
+s304877952.223654
+e304877952.264280
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m
+lSLF07#2@69"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m304877952#304877952#0(0"0(0#0#61"/Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m8629565184#1869"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/PuzzleAppDelegate.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m
+s305297744.834720
+e305297744.890889
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m
+lSLF07#2@72"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m305297744#305297744#0(0"0(0#0#64"/Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m8624605312#1875"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/SecondViewController.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m
+s304615015.158262
+e304615015.212632
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/Slices.m
+lSLF07#2@58"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m304615015#304615015#0(0"0(0#0#50"/Users/guy/Documents/xcode/Puzzle/Classes/Slices.m8631764736#1847"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/Slices.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m
+s304773241.318523
+e304773241.350466
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m
+lSLF07#2@68"Analyze /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m304773241#304773241#0(0"0(0#0#60"/Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m8636444448#1867"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/theTabController.plist0#
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/UITabBarController.m
+r0
+
+CAnalyze /Users/guy/Documents/xcode/Puzzle/main.m
+s304450969.204869
+e304450969.366033
+r1
+xAnalyze
+x/Users/guy/Documents/xcode/Puzzle/main.m
+lSLF07#2@48"Analyze /Users/guy/Documents/xcode/Puzzle/main.m304450969#304450969#0(0"0(0#0#40"/Users/guy/Documents/xcode/Puzzle/main.m8620611968#1835"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch --analyze /Users/guy/Documents/xcode/Puzzle/main.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305302704#305302704#0(0"0(0#1#0"8622754272#0"0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/FirstViewController.o /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305302704.124648
+e305302704.310259
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/FirstViewController.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m305302704#305302704#0(0"0(0#0#63"/Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m8624765536#1864"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/FirstViewController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PopOverTest.o /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304804830.138599
+e304804830.202602
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PopOverTest.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m304804830#304804830#0(0"0(0#0#55"/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m8657342272#1848"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PopOverTest.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PuzzleAppDelegate.o /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304877952.169500
+e304877952.301080
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PuzzleAppDelegate.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m304877952#304877952#0(0"0(0#0#61"/Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m8665576224#1860"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/PuzzleAppDelegate.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/PuzzleAppDelegate.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Puzzle_vers.o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/Puzzle_vers.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/RootViewController.o /Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304190871.146398
+e304190871.205451
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/RootViewController.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.m304190871#304190871#0(0"0(0#0#62"/Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.m8603285824#1862"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-dddlvfpadoimudgazbvhjwjnjyig/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/RootViewController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/SecondViewController.o /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305297744.659809
+e305297744.752981
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/SecondViewController.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m305297744#305297744#0(0"0(0#0#64"/Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m8627919072#1866"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/SecondViewController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Slices.o /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304615014.965595
+e304615015.070463
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Slices.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/Slices.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m304615014#304615015#0(0"0(0#0#50"/Users/guy/Documents/xcode/Puzzle/Classes/Slices.m8657255520#1838"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/Slices.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Slices.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/UITabBarController.o /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304450354.778796
+e304450354.844995
+r0
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/UITabBarController.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:8:
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h:11: error: duplicate interface declaration for class 'UITabBarController'
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h:14: error: redefinition of 'struct UITabBarController'
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:12: error: no declaration of property '_tab' found in the interface
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'viewControllers' requires method '-viewControllers' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'viewControllers' requires the method 'setViewControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedViewController' requires method '-selectedViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedViewController' requires the method 'setSelectedViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedIndex' requires method '-selectedIndex' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedIndex' requires the method 'setSelectedIndex:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'moreNavigationController' requires method '-moreNavigationController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'customizableViewControllers' requires method '-customizableViewControllers' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'customizableViewControllers' requires the method 'setCustomizableViewControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'tabBar' requires method '-tabBar' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: incomplete implementation of class 'UITabBarController'
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: method definition for '-setViewControllers:animated:' not found
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: incomplete implementation of class 'UITabBarController'
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: method definition for '-initWithCoder:' not found
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: method definition for '-encodeWithCoder:' not found
+o/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: class 'UITabBarController' does not fully implement the 'NSCoding' protocol
+lSLF07#2@73"Compile /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450354#304450354#0(4005"In file included from /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:8:/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h:11: error: duplicate interface declaration for class 'UITabBarController'/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h:14: error: redefinition of 'struct UITabBarController'/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:12: error: no declaration of property '_tab' found in the interface/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'viewControllers' requires method '-viewControllers' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'viewControllers' requires the method 'setViewControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedViewController' requires method '-selectedViewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedViewController' requires the method 'setSelectedViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedIndex' requires method '-selectedIndex' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'selectedIndex' requires the method 'setSelectedIndex:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'moreNavigationController' requires method '-moreNavigationController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'customizableViewControllers' requires method '-customizableViewControllers' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'customizableViewControllers' requires the method 'setCustomizableViewControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'tabBar' requires method '-tabBar' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: incomplete implementation of class 'UITabBarController'/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: method definition for '-setViewControllers:animated:' not found/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: incomplete implementation of class 'UITabBarController'/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: method definition for '-initWithCoder:' not found/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: method definition for '-encodeWithCoder:' not found/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m:15: warning: class 'UITabBarController' does not fully implement the 'NSCoding' protocol21(4@62"Duplicate interface declaration for class 'UITabBarController'304450354#91#140#2(7@87"In file included from /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450354#18446744073709551615#0#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#8#0#8#0#0"0(13@131"Duplicate interface declaration for class 'UITabBarController' in /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h304450354#18446744073709551615#0#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h304450302#11#0#11#0#0"0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h304450302#11#0#11#0#0"0(4@43"Redefinition of 'struct UITabBarController'304450354#231#121#2(7@87"In file included from /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450354#18446744073709551615#0#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#8#0#8#0#0"0(13@112"Redefinition of 'struct UITabBarController' in /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h304450354#18446744073709551615#0#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h304450302#14#0#14#0#0"0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.h304450302#14#0#14#0#19"redefinition of '*'0(4@56"No declaration of property '_tab' found in the interface304450354#352#134#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#12#0#12#0#0"0(22@138"Property 'viewControllers' requires method '-viewControllers' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#486#218#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@145"Property 'viewControllers' requires the method 'setViewControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#704#225#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@152"Property 'selectedViewController' requires method '-selectedViewController' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#929#232#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@159"Property 'selectedViewController' requires the method 'setSelectedViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#1161#239#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@134"Property 'selectedIndex' requires method '-selectedIndex' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#1400#214#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@141"Property 'selectedIndex' requires the method 'setSelectedIndex:' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#1614#221#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@156"Property 'moreNavigationController' requires method '-moreNavigationController' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#1835#236#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@162"Property 'customizableViewControllers' requires method '-customizableViewControllers' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#2071#242#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@169"Property 'customizableViewControllers' requires the method 'setCustomizableViewControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#2313#249#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@120"Property 'tabBar' requires method '-tabBar' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#2562#200#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#2762#204#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation304450354#2966#211#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#0"0(22@55"Incomplete implementation of class 'UITabBarController'304450354#3177#135#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#38"incomplete implementation of class '*'0(22@63"Method definition for '-setViewControllers:animated:' not found304450354#3312#143#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#35"method definition for '*' not found0(22@55"Incomplete implementation of class 'UITabBarController'304450354#3455#135#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found304450354#3590#129#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found304450354#3719#131#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#35"method definition for '*' not found0(22@75"Class 'UITabBarController' does not fully implement the 'NSCoding' protocol304450354#3850#155#0(6@65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m304450275#15#0#15#0#51"class '*' does not fully implement the '*' protocol0(0#0#65"/Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m8617723968#1865"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/../UITabBarController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/UITabBarController.o1#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/UITabBarController.o /Users/guy/Documents/xcode/Puzzle/UITabBarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/main.o /Users/guy/Documents/xcode/Puzzle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304450968.722535
+e304450968.771175
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/main.o
+x/Users/guy/Documents/xcode/Puzzle/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/guy/Documents/xcode/Puzzle/main.m304450968#304450968#0(0"0(0#0#40"/Users/guy/Documents/xcode/Puzzle/main.m8620461216#1826"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/main.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/theTabController.o /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304768712.282846
+e304768712.349720
+r1
+xCompileC
+xbuild/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/theTabController.o
+x/Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m304768712#304768712#0(0"0(0#0#60"/Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m8660252800#1858"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -include /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch -c /Users/guy/Documents/xcode/Puzzle/Classes/theTabController.m -o /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/theTabController.o0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/Classes/ImagePicker.xib
+s304782644.925939
+e304782645.293657
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/Classes/ImagePicker.xib
+lSLF07#2@34"CompileXIB Classes/ImagePicker.xib304782644#304782645#0(0"0(0#0#57"/Users/guy/Documents/xcode/Puzzle/Classes/ImagePicker.xib8665969472#564"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/ImagePicker.nib /Users/guy/Documents/xcode/Puzzle/Classes/ImagePicker.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.xib
+s304804829.765756
+e304804830.137184
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.xib
+lSLF07#2@34"CompileXIB Classes/PopOverTest.xib304804829#304804830#0(0"0(0#0#57"/Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.xib8607200480#564"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/PopOverTest.nib /Users/guy/Documents/xcode/Puzzle/Classes/PopOverTest.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/FirstView.xib
+s304704279.426255
+e304704279.817742
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib304704279#304704279#0(0"0(0#0#47"/Users/guy/Documents/xcode/Puzzle/FirstView.xib8658582720#552"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/FirstView.nib /Users/guy/Documents/xcode/Puzzle/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/MainWindow.xib
+s305209347.773897
+e305209348.403130
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305209347#305209348#0(0"0(0#0#48"/Users/guy/Documents/xcode/Puzzle/MainWindow.xib8601830208#554"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/MainWindow.nib /Users/guy/Documents/xcode/Puzzle/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/PopOverView.xib
+s304804379.399798
+e304804379.747266
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/PopOverView.xib
+lSLF07#2@26"CompileXIB PopOverView.xib304804379#304804379#0(0"0(0#0#49"/Users/guy/Documents/xcode/Puzzle/PopOverView.xib8660000256#556"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/PopOverView.nib /Users/guy/Documents/xcode/Puzzle/PopOverView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/RootViewController.xib
+s304190870.201265
+e304190870.590517
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib304190870#304190870#0(0"0(0#0#56"/Users/guy/Documents/xcode/Puzzle/RootViewController.xib8603677984#570"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/RootViewController.nib /Users/guy/Documents/xcode/Puzzle/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/guy/Documents/xcode/Puzzle/SecondView.xib
+s305297188.335624
+e305297190.433443
+r1
+xCompileXIB
+x/Users/guy/Documents/xcode/Puzzle/SecondView.xib
+o2010-09-04 14:46:29.577 ibtool[78311:607] __CFServiceControllerBeginPBSLoadForLocalizations timed out while talking to pbs
+lSLF07#2@25"CompileXIB SecondView.xib305297188#305297190#0(123"2010-09-04 14:46:29.577 ibtool[78311:607] __CFServiceControllerBeginPBSLoadForLocalizations timed out while talking to pbs0(0#0#48"/Users/guy/Documents/xcode/Puzzle/SecondView.xib8626976064#554"    cd /Users/guy/Documents/xcode/Puzzle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/SecondView.nib /Users/guy/Documents/xcode/Puzzle/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Puzzle.app/13112009172.jpg ../../../Pictures/trios/13112009172.jpg
+s304450967.926182
+e304450967.932351
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Puzzle.app/13112009172.jpg
+x../../../Pictures/trios/13112009172.jpg
+lSLF07#2@44"Copy ../../../Pictures/trios/13112009172.jpg304450967#304450967#0(0"0(0#0#73"/Users/guy/Documents/xcode/Puzzle/../../../Pictures/trios/13112009172.jpg8619718720#467"    cd /Users/guy/Documents/xcode/Puzzle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/guy/Documents/xcode/Puzzle/../../../Pictures/trios/13112009172.jpg /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/Puzzle.app/trafo1.JPG ../../../Pictures/trios/trafo1.JPG
+s304450967.926848
+e304450967.941596
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Puzzle.app/trafo1.JPG
+x../../../Pictures/trios/trafo1.JPG
+lSLF07#2@39"Copy ../../../Pictures/trios/trafo1.JPG304450967#304450967#0(0"0(0#0#68"/Users/guy/Documents/xcode/Puzzle/../../../Pictures/trios/trafo1.JPG8619524672#462"    cd /Users/guy/Documents/xcode/Puzzle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/guy/Documents/xcode/Puzzle/../../../Pictures/trios/trafo1.JPG /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app0#
+
+CGenerateDSYMFile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app.dSYM /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle
+s305302704.331930
+e305302704.353261
+r1
+xGenerateDSYMFile
+x/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app.dSYM
+x/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Puzzle.app.dSYM build/Debug-iphonesimulator/Puzzle.app/Puzzle305302704#305302704#0(0"0(0#0#79"/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle8624802720#365"    cd /Users/guy/Documents/xcode/Puzzle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle -o /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app.dSYM0#
+
+CLd /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle normal i386
+s305302704.310332
+e305302704.331850
+r1
+xLd
+x/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle
+xnormal
+xi386
+lSLF07#2@84"Link /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle305302704#305302704#0(0"0(0#0#0"8622598912#870"    cd /Users/guy/Documents/xcode/Puzzle    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -filelist /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Objects-normal/i386/Puzzle.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Puzzle0#
+
+CProcessInfoPlistFile /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Info.plist Puzzle-Info.plist
+s304450967.515324
+e304450967.527657
+r1
+xProcessInfoPlistFile
+x/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Info.plist
+xPuzzle-Info.plist
+lSLF07#2@25"Process Puzzle-Info.plist304450967#304450967#0(0"0(0#0#51"/Users/guy/Documents/xcode/Puzzle/Puzzle-Info.plist8617280704#461"    cd /Users/guy/Documents/xcode/Puzzle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Puzzle-Info.plist -genpkginfo /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app/Info.plist0#
+
+CProcessPCH /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch.pth Puzzle_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s304194945.948943
+e304194946.402393
+r1
+xProcessPCH
+x/var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch.pth
+xPuzzle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile Puzzle_Prefix.pch304194945#304194946#0(0"0(0#0#51"/Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch8616336160#1715"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -c /Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch -o /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-bgieiyuupvwrmfafatwfckopcllj/Puzzle_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-dddlvfpadoimudgazbvhjwjnjyig/Puzzle_Prefix.pch.gch Puzzle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304190870.590623
+e304190871.097773
+r1
+xProcessPCH
+x/var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-dddlvfpadoimudgazbvhjwjnjyig/Puzzle_Prefix.pch.gch
+xPuzzle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Puzzle_Prefix.pch304190870#304190871#0(0"0(0#0#51"/Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch8606169088#1724"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -c /Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch -o /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-dddlvfpadoimudgazbvhjwjnjyig/Puzzle_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch.gch Puzzle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304450968.245231
+e304450968.722444
+r1
+xProcessPCH
+x/var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch.gch
+xPuzzle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Puzzle_Prefix.pch304450968#304450968#0(0"0(0#0#51"/Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch8620260320#1724"    cd /Users/guy/Documents/xcode/Puzzle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-generated-files.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-own-target-headers.hmap -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-all-target-headers.hmap -iquote /Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/Puzzle-project-headers.hmap -F/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator -I/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/include -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources/i386 -I/Users/guy/Documents/xcode/Puzzle/build/Puzzle.build/Debug-iphonesimulator/Puzzle.build/DerivedSources -c /Users/guy/Documents/xcode/Puzzle/Puzzle_Prefix.pch -o /var/folders/0N/0Nn9J7tmFvOHMdXAVGzNRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Puzzle_Prefix-fwjmhbfsdbicoqdrurcdwdvnnboe/Puzzle_Prefix.pch.gch0#
+
+CTouch /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app
+s305302704.353516
+e305302704.355899
+r1
+xTouch
+x/Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app
+lSLF07#2@78"Touch /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app305302704#305302704#0(0"0(0#0#0"8621729760#267"    cd /Users/guy/Documents/xcode/Puzzle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/guy/Documents/xcode/Puzzle/build/Debug-iphonesimulator/Puzzle.app0#
+
